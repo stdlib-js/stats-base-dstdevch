@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-01-14)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`f229b4a`](https://github.com/stdlib-js/stdlib/commit/f229b4a8d90fd206460ad508f67da1578609cdbb) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dstdevch` [(#4619)](https://github.com/stdlib-js/stdlib/pull/4619) _(by Aayush Khanna, Athan Reines)_
 -   [`d83c31f`](https://github.com/stdlib-js/stdlib/commit/d83c31f741571db4eaf4385e4a2f8884dfa56dbb) - **refactor:** update `stats/base/dstdevch` native addon from C++ to C [(#4271)](https://github.com/stdlib-js/stdlib/pull/4271) _(by Vivek Maurya)_
